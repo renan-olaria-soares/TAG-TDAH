@@ -5,6 +5,7 @@ Leitura para estudo e aprofundamento sobre transtornos neurodivergentes como TDA
 Suas implicações na vida adulta e desafios de quem convive com tais questões.
 
 FONTES DE VIDEO:
+
 https://www.youtube.com/@russellbarkleyphd2023?utm_source=chatgpt.com
 https://glasp.co/youtube/zDKOU6xevcE?utm_source=chatgpt.com
 https://glasp.co/youtube/_tpB-B8BXk0?utm_source=chatgpt.com
@@ -15,9 +16,13 @@ https://www.russellbarkley.org/index.html?utm_source=chatgpt.com
 
 FONTES DE TEXTO:
 Principles of Neural Science – referência clássica em neurociência.
+
 Taking Charge of Adult ADHD - compreensão das funções executivas no TDAH
+
 A New Understanding of ADHD in Children and Adults - modelo cognitivo do TDAH.
+
 Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)
+
 International Classification of Diseases 11th Revision (ICD-11)
 
 Perguntas elaboradas e respotas:
